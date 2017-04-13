@@ -1,0 +1,17 @@
+{
+  "name": "centertest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "commander": "^2.9.0",
+    "json2xml": "^0.1.3",
+    "moment": "^2.18.1"
+  }
+}
